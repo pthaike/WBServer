@@ -1,7 +1,7 @@
 #Webus项目首页
 >[WeBus项目首页(点击可查看)](https://github.com/pthaike/WeBus/wiki)
 
-# WeBus 服务器
+# WeBus 服务器开发配置
 >服务器运行环境：jdk1.8
 
 >服务器开发语言：java+eclipse

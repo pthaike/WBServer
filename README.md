@@ -24,10 +24,10 @@ SODA数据
 
 >气象数据	
 
-Yahoo Weather
+雅虎天气
 >http://weather.yahooapis.com/forecastrss?p=CHXX0116&u=c
 
-BaiduMap
+百度地图
 >http://developer.baidu.com/map/index.php?title=%E9%A6%96%E9%A1%B5
 
 #数据分析
